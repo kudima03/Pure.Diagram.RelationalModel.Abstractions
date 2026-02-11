@@ -9,11 +9,11 @@
     <!--<PackageValidationBaselineVersion>0.1.0-preview.0.1.0</PackageValidationBaselineVersion>-->
   </PropertyGroup>
   <PropertyGroup>
-    <PackageId>Pure.Diagram.Model.Abstractions</PackageId>
-    <RootNamespace>Pure.Diagram.Model.Abstractions</RootNamespace>
-    <AssemblyName>Pure.Diagram.Model.Abstractions</AssemblyName>
+    <PackageId>Pure.Diagram.RelationalModel.Abstractions</PackageId>
+    <RootNamespace>Pure.Diagram.RelationalModel.Abstractions</RootNamespace>
+    <AssemblyName>Pure.Diagram.RelationalModel.Abstractions</AssemblyName>
     <Authors>Dmitry Kurochkin</Authors>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/kudima03/Pure.Diagram.Model.Abstractions</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/kudima03/Pure.Diagram.RelationalModel.Abstractions</PackageProjectUrl>
   </PropertyGroup>
 </Project>

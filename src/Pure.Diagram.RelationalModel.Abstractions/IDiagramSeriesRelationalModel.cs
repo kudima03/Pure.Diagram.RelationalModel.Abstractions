@@ -3,7 +3,7 @@ using Pure.Primitives.Abstractions.String;
 
 namespace Pure.Diagram.RelationalModel.Abstractions;
 
-public interface ISeriesRelationalModel
+public interface IDiagramSeriesRelationalModel
 {
     public IGuid Id { get; }
 
